@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CalculatorOfTheOld/static/css/main.c47b8081.chunk.css",
+    "main.js": "/CalculatorOfTheOld/static/js/main.7b1bfa84.chunk.js",
+    "main.js.map": "/CalculatorOfTheOld/static/js/main.7b1bfa84.chunk.js.map",
+    "runtime-main.js": "/CalculatorOfTheOld/static/js/runtime-main.a0d0a295.js",
+    "runtime-main.js.map": "/CalculatorOfTheOld/static/js/runtime-main.a0d0a295.js.map",
+    "static/js/2.cc11b56d.chunk.js": "/CalculatorOfTheOld/static/js/2.cc11b56d.chunk.js",
+    "static/js/2.cc11b56d.chunk.js.map": "/CalculatorOfTheOld/static/js/2.cc11b56d.chunk.js.map",
+    "index.html": "/CalculatorOfTheOld/index.html",
+    "precache-manifest.a3ea535b6685ed4da4ff4b40a7eb0b16.js": "/CalculatorOfTheOld/precache-manifest.a3ea535b6685ed4da4ff4b40a7eb0b16.js",
+    "service-worker.js": "/CalculatorOfTheOld/service-worker.js",
+    "static/css/main.c47b8081.chunk.css.map": "/CalculatorOfTheOld/static/css/main.c47b8081.chunk.css.map",
+    "static/js/2.cc11b56d.chunk.js.LICENSE.txt": "/CalculatorOfTheOld/static/js/2.cc11b56d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CalculatorOfTheOld/static/media/digital-7.regular.1e670d88.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0d0a295.js",
+    "static/js/2.cc11b56d.chunk.js",
+    "static/css/main.c47b8081.chunk.css",
+    "static/js/main.7b1bfa84.chunk.js"
+  ]
+}
